@@ -17,12 +17,43 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Todo App',
       theme: ThemeData(
         primarySwatch: Colors.blue,
-        colorScheme: ColorScheme.fromSwatch().copyWith(
+        colorScheme: ColorScheme.fromSeed(
+          seedColor: Colors.blue,
+          primary: Colors.blue,
           secondary: Colors.orange,
+          surface: Colors.white,
+          background: Colors.grey[100]!,
         ),
         textTheme: TextTheme(
-          bodyLarge: TextStyle(color: Colors.black),
-          bodyMedium: TextStyle(color: Colors.grey[700]),
+          headlineLarge: TextStyle(
+            fontSize: 32,
+            fontWeight: FontWeight.bold,
+            color: Colors.blue[900],
+          ),
+          headlineMedium: TextStyle(
+            fontSize: 24,
+            fontWeight: FontWeight.w600,
+            color: Colors.blue[800],
+          ),
+          bodyLarge: TextStyle(fontSize: 16, color: Colors.black87),
+          bodyMedium: TextStyle(fontSize: 14, color: Colors.black54),
+        ),
+        cardTheme: CardTheme(
+          elevation: 8,
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(16),
+          ),
+        ),
+        elevatedButtonTheme: ElevatedButtonThemeData(
+          style: ElevatedButton.styleFrom(
+            elevation: 4,
+            backgroundColor: Colors.blue,
+            foregroundColor: Colors.white,
+            padding: EdgeInsets.symmetric(horizontal: 24, vertical: 12),
+            shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(12),
+            ),
+          ),
         ),
       ),
       initialRoute: '/',
