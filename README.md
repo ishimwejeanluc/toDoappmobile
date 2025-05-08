@@ -146,7 +146,7 @@ lib/
   <img src="screenshots/category_filter.png" alt="Category Filter" width="250"/>
 </p>
 
-*Note: Create a `screenshots` folder in the root directory and add your app screenshots there.*
+
 
 ## Acknowledgements
 
