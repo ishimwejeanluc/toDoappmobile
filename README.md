@@ -135,14 +135,14 @@ lib/
 ## Screenshots
 
 
+# 📸 Screenshots
+
 <p align="center">
-  <img src="screenshoots/Screen Shot 2025-09-21 at 7.22.21 PM.png" alt="Screen Shot 7.22.21 PM" width="250"/>
-  <img src="screenshoots/Screen Shot 2025-09-21 at 7.24.59 PM.png" alt="Screen Shot 7.24.59 PM" width="250"/>
-  <img src="screenshoots/Screen Shot 2025-09-21 at 7.25.15 PM.png" alt="Screen Shot 7.25.15 PM" width="250"/>
-</p>
-<p align="center">
-  <img src="screenshoots/Screen Shot 2025-09-21 at 7.25.39 PM.png" alt="Screen Shot 7.25.39 PM" width="250"/>
-  <img src="screenshoots/Screen Shot 2025-09-21 at 7.27.17 PM.png" alt="Screen Shot 7.27.17 PM" width="250"/>
+  <img src="screenshoots/Screen%20Shot%202025-09-21%20at%207.22.21%20PM.png" alt="screenshot1" width="200"/>
+  <img src="screenshoots/Screen%20Shot%202025-09-21%20at%207.24.59%20PM.png" alt="screenshot2" width="200"/>
+  <img src="screenshoots/Screen%20Shot%202025-09-21%20at%207.25.15%20PM.png" alt="screenshot3" width="200"/>
+  <img src="screenshoots/Screen%20Shot%202025-09-21%20at%207.25.39%20PM.png" alt="screenshot4" width="200"/>
+  <img src="screenshoots/Screen%20Shot%202025-09-21%20at%207.27.17%20PM.png" alt="screenshot5" width="200"/>
 </p>
 
 
