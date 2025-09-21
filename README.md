@@ -138,11 +138,11 @@ lib/
 # 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/Screen%20Shot%202025-09-21%20at%207.22.21%20PM.png" alt="screenshot1" width="200"/>
-  <img src="screenshots/Screen%20Shot%202025-09-21%20at%207.24.59%20PM.png" alt="screenshot2" width="200"/>
-  <img src="screenshots/Screen%20Shot%202025-09-21%20at%207.25.15%20PM.png" alt="screenshot3" width="200"/>
-  <img src="screenshots/Screen%20Shot%202025-09-21%20at%207.25.39%20PM.png" alt="screenshot4" width="200"/>
-  <img src="screenshots/Screen%20Shot%202025-09-21%20at%207.27.17%20PM.png" alt="screenshot5" width="200"/>
+  <img src="screenshots/Screen%20Shot%202025-09-21%20at%207.22.21%20PM.png" alt="screenshot1" width="400"/>
+  <img src="screenshots/Screen%20Shot%202025-09-21%20at%207.24.59%20PM.png" alt="screenshot2" width="400"/>
+  <img src="screenshots/Screen%20Shot%202025-09-21%20at%207.25.15%20PM.png" alt="screenshot3" width="400"/>
+  <img src="screenshots/Screen%20Shot%202025-09-21%20at%207.25.39%20PM.png" alt="screenshot4" width="400"/>
+  <img src="screenshots/Screen%20Shot%202025-09-21%20at%207.27.17%20PM.png" alt="screenshot5" width="400"/>
 </p>
 
 
